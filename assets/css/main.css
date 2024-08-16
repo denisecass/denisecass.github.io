@@ -700,6 +700,7 @@ input, select, textarea {
 			width: 80%;
 			height: auto;
 			max-width: 100%;
+			position: center;
 		}
 
 			.image.main img {
