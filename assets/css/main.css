@@ -687,7 +687,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2rem 0;
-			width: 100%;
+			width: 80%;
 		}
 
 			.image.fit img {
@@ -698,6 +698,8 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 80%;
+			height: auto;
+			max-width: 100%;
 		}
 
 			.image.main img {
