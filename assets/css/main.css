@@ -701,8 +701,7 @@ input, select, textarea {
     			height: auto;
     			max-width: 100%;
     			position: relative;
-    			left: 50%; /* Center the image horizontally */
-    			transform: translateX(-50%); /* Adjust for centering */
+
 		}
 
 			.image.main img {
