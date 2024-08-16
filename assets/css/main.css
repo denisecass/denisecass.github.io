@@ -705,9 +705,8 @@ input, select, textarea {
 		}
 
 			.image.main img {
-   			width: 100%;
-    			display: block;
-			margin: 0 auto;
+			transform: scale(0.5); /* Scale down the image to 50% */
+    			transform-origin: center; /* Ensure scaling is from the center *
 		}
 
 		@media screen and (max-width: 736px) {
